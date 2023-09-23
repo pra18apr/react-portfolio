@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "React Retreat",
+        "image": "",
+        "github": "https://github.com/pra18apr/react-retreat",
+        "deploy": "https://react-retreat.herokuapp.com/",
+        "topics": "Reactjs, Creat-React-App service worker, GraphQl, Redux, JWT Authentication, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
+    },
+    {
+        "id": 2,
+        "name": "Week In View",
+        "image": "https://github.com/pra18apr/Project-2---weekly-organizer/blob/main/image.png",
+        "github": "https://github.com/pra18apr/Project-2---weekly-organizer",
+        "deploy": "https://tranquil-cliffs-08653-47fa797c3d17.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 3,
+        "name": "Tech Blog",
+        "image": "https://user-images.githubusercontent.com/130611291/270068728-80dedcfb-efdf-4c7c-98f7-17d4dd41c2a9.png",
+        "github": "https://github.com/pra18apr/cms-style-tech-blog",
+        "deploy": "https://cms-style-tech-blog.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://user-images.githubusercontent.com/130611291/270068560-0088436b-8374-45b7-8806-9a754db715c2.png",
+        "github": "https://github.com/pra18apr/Weather-forecast-Assignment",
+        "deploy": "https://pra18apr.github.io/Weather-forecast-Assignment/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Budget Tracker",
+        "image": "https://user-images.githubusercontent.com/130611291/270069101-79b0a007-4a20-4bc5-a086-5bb402ebc228.png",
+        "github": "https://github.com/pra18apr/pwa-text-editor",
+        "deploy": "https://peaceful-waters-96328.herokuapp.com/",
+        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "https://user-images.githubusercontent.com/130611291/239402159-f15a4a5e-0292-4a8e-9827-a2c710b56917.png",
+        "github": "https://github.com/pra18apr/calendar-application-assignment",
+        "deploy": "https://pra18apr.github.io/calendar-application-assignment/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+    }
+]
