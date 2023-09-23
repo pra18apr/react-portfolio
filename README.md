@@ -42,8 +42,9 @@ npm start
 
 #### Screenshot
 
-![Screenshot of the Application]( "Screenshot of the Application")
-### Link to the application running on Github Pages: [(React) Personal Portfolio]( )
+[Screenshot of the Application](![image](https://github.com/pra18apr/react-portfolio/assets/130611291/b576a904-b24a-4ab4-8725-ff00d2eee40b)
+
+### Link to the application running on Github Pages: [(React) Personal Portfolio](https://pra18apr.github.io/react-portfolio/)
 
 
 
