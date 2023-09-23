@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "name": "Budget Tracker",
+        "name": "PWA Text editor",
         "image": "https://user-images.githubusercontent.com/130611291/270069101-79b0a007-4a20-4bc5-a086-5bb402ebc228.png",
         "github": "https://github.com/pra18apr/pwa-text-editor",
         "deploy": "https://peaceful-waters-96328.herokuapp.com/",
