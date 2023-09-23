@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "React Retreat",
-        "image": "",
+        "image": "Upcoming project",
         "github": "https://github.com/pra18apr/react-retreat",
         "deploy": "https://react-retreat.herokuapp.com/",
         "topics": "Reactjs, Creat-React-App service worker, GraphQl, Redux, JWT Authentication, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
